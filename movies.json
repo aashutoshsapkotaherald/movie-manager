@@ -1,0 +1,22 @@
+{
+  "movies": [
+    {
+      "title": "Updated Movie",
+      "genre": "Drama",
+      "year": 2022,
+      "id": "1"
+    },
+    {
+      "id": "3",
+      "title": "Edited Dune",
+      "year": 2025,
+      "genre": "Genre Edited"
+    },
+    {
+      "id": "6f37",
+      "title": "Aashutosh",
+      "genre": "SCIFI",
+      "year": 2002
+    }
+  ]
+}
